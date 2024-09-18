@@ -3,7 +3,7 @@
 int main() {
     printf("Hello, My name is ABDULLA A.\n");
     printf("I am a Computer Science Engineering student at Musaliar College Of Engineering Chirayinkeezh.\n");
-    printf("I am a student participating in a code art competition.\n");
+    printf("I am a student participating in Evolve daily challenges.\n");
     printf("I enjoy programming and exploring creative coding challenges.\n");
     printf("I am looking forward to enhancing my skills and contributing to this community.\n");
     
