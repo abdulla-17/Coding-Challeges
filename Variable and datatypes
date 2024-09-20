@@ -1,0 +1,9 @@
+age = 21
+height = 6.0  
+name = "ABDULLA A"
+is_student = True
+
+print("Name:", name)
+print("Is Student:", is_student)
+print("Age:", age)
+print("Height:", height, "feet")
