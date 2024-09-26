@@ -1,0 +1,10 @@
+# Asking for user input
+num = int(input("Enter a number: "))
+
+# Initializing the counter variable
+i = 1
+
+# Using a while loop to print numbers from 1 to the entered number
+while i <= num:
+    print(i)
+    i += 1
